@@ -32,12 +32,16 @@ o	Software will generate a keypair for authentication
 •	Software will email to alert us of new user?
 •	On exit it will log out/terminate session
 
-
-
------Future additions-------------
+--Future additions--
 •	(Optional/Future addition) Add distributed system
 o	Users would connect to their local server and ftp to/from it and server would then sync with other servers over low usage time i.e. nighttime.
 	Possibly with Redis or custom.
-
-•	Future use
+--Future use--
 o	Auto push changes to cloud
+
+
+
+
+----------------------Current Progress---------------------
+No actual code has been written. I currently am doing a crash course on React to build it in React. I also have not decided if I am going to build it all in React or in combination with other languages.
+Currently only the outline above exists in software. However there is a physical system that is set up and is running using other software, and is currently accessible.
