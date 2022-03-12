@@ -1,5 +1,19 @@
 # BrendenFerkans
 
+---------------------UPDATE------------------------------------
+Posted in the files is current progress on the code.
+It is alot more than no code previously, however still is not working to the point i wanted it too
+I wanted to get the login done, and it has the funcionality to check if a user is stored, however does not acutally create a session.
+
+
+
+
+
+
+
+
+
+
 -------------------------OVERVIEW--------------------------------
 
 GUI and service manager for a NAS
