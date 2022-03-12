@@ -1,0 +1,177 @@
+.App {
+  text-align: center;
+}
+
+html{
+  background-color:gray;
+  margin:2px;
+}
+
+nav{
+  display: flex;
+  background: rgb(30, 135, 200) ;
+  color: rgb(75, 230, 35);
+  border-bottom: 2px solid black;
+}
+
+nav ul li{
+  color: aliceblue;
+}
+
+.nav-links{
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+}
+
+.nav-links li:visited
+{
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.nav-links li:hover{
+  color: lightcoral;
+}
+
+div{
+  background-color: lightcoral;
+  min-width: 300px;
+  display: block;
+}
+
+.logo
+{
+  margin-top: 3px;
+  height: 50px;
+  width:50px;
+}
+
+fieldset{
+  background-color: white;
+  width: auto;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 325px;
+  border: 1px solid black;
+}
+
+legend{
+  background-color: white;
+  border: 1px solid black;
+}
+
+
+input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 5px;
+}
+
+button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+#root{
+  padding: 0;
+  margin: 0;
+  background-color: lightcoral;
+}
+
+.localFileBox
+{
+  display: block;
+  float: left;
+  border: 2px solid black;
+  margin: auto;
+  margin-left: 20px;
+  min-width: 200px;
+  min-height: 200px;
+}
+
+.cloudFileBox
+{
+  display: block;
+  float: right;
+  border: 2px solid black;
+  margin: auto;
+  margin-right: 20px;
+  min-width: 200px;
+  min-height: 200px;
+}
+
+.testFile
+{
+  max-width: 200px;
+  display: block;
+  clear: both;
+}
+
+.error{
+  color: red;
+  font-weight: bold;
+  padding:0;
+  margin:0;
+  text-shadow:1px 0 0 black,0 1px 0 black,-1px 0 0 black,0 -1px 0 black;
+}
+
+.ryan
+{
+  max-height: 400px;
+  max-width:  300px;
+}
+
+.loginBody
+{
+  margin: auto;
+  max-width: 35%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  min-width: 210px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightslategray;
+  border: 2px solid black;
+  min-width: 300px;
+  min-height: 325px;
+}
+
+.homeBody
+{
+  border: 0px solid black;
+}
+
+main{
+  margin: auto;
+  max-width: 35%;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  min-width: 210px;
+}
+
+.logoutButton
+{
+  text-decoration: none;
+  padding: 0;
+  border: none;
+  background: none;
+  color: aliceblue;
+
+}
+
+.logoutButton:hover
+{
+  color: lightcoral;
+}
