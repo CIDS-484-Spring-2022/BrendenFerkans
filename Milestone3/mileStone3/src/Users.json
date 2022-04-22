@@ -1,0 +1,4 @@
+{"users":[
+    {"id":1,"email":"typedEmail@gmail.com","password":"12345","name":"Michelle","background":"PathNameHere"},
+    {"id":2,"email":"secondEmail@yahoo.com","password":"54321","name":"Matthew","background":"PathNameHere2"}
+]}
