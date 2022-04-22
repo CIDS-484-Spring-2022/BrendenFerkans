@@ -1,12 +1,16 @@
 # BrendenFerkans
 
 ---------------------UPDATE MileStone 3------------------------------------
+
 Posted in the milestone3 folder is the new code.
 It is around the same amount of code as previously, although almost the entire thing has been rewritten.
 The login and log out works perfectly as a system with session and other such things.
 There currently is a bug where only the first user in the list can log in....but minor things....minor things.
 
-Where to go from here: In the code is the start of the file transfering system. So far only the barebones code for the behind the scenes is there. I plan to get a basic version of it up and running before making it all fancy with previews and erro checking and hashing along with server/folder selecting.
+
+Where to go from here: 
+
+In the code is the start of the file transfering system. So far only the barebones code for the behind the scenes is there. I plan to get a basic version of it up and running before making it all fancy with previews and erro checking and hashing along with server/folder selecting.
 
 
 
