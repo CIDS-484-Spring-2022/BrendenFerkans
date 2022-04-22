@@ -1,10 +1,29 @@
 # BrendenFerkans
 
----------------------UPDATE------------------------------------
+---------------------UPDATE MileStone 3------------------------------------
+Posted in the milestone3 folder is the new code.
+It is around the same amount of code as previously, although almost the entire thing has been rewritten.
+The login and log out works perfectly as a system with session and other such things.
+There currently is a bug where only the first user in the list can log in....but minor things....minor things.
+
+Where to go from here: In the code is the start of the file transfering system. So far only the barebones code for the behind the scenes is there. I plan to get a basic version of it up and running before making it all fancy with previews and erro checking and hashing along with server/folder selecting.
+
+
+
+
+
+---------------------UPDATE MileStone 2------------------------------------
 
 Posted in the files is current progress on the code.
 It is alot more than no code previously, however still is not working to the point i wanted it too
 I wanted to get the login done meaning session creation and termination however it currently only has the funcionality to check if a user is stored, however does not acutally create a session.
+
+
+
+
+
+
+
 
 
 
@@ -51,6 +70,7 @@ o	Essentially this will be windows file explorer with ftp to and from a server
 o	(software may have to run as service?) depends on usage
 
 
+
 --How should the software handle users--
 
 o	Users should enter password to connect to server
@@ -64,6 +84,7 @@ o	Software will generate a keypair for authentication
 •	Software will email to alert us of new user?
 
 •	On exit it will log out/terminate session
+
 
 
 --Future additions--
@@ -81,7 +102,7 @@ o	Auto push changes to cloud
 
 
 
-----------------------Current Progress---------------------
+----------------------Beginning Progress---------------------
 
 No actual code has been written. I currently am doing a crash course on React to build it in React. I also have not decided if I am going to build it all in React or in combination with other languages.
 Currently only the outline above exists in software. However there is a physical system that is set up and is running using other software, and is currently accessible.
