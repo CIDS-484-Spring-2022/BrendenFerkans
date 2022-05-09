@@ -1,6 +1,7 @@
 # BrendenFerkans
 
 ---------------------UPDATE Final Update------------------------------------
+
 For this update, the project is almost completely finished. You can upload files to the server and in theory download them. I explain on the video why you cant quite download them yet. Well you can download 1 file. That essentially completes this project, and while there is alot of features to add and css to fix, that is minor things. The big thing is that the project is done and it works.
 
 
