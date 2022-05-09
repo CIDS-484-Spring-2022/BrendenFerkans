@@ -1,5 +1,21 @@
 # BrendenFerkans
 
+---------------------UPDATE Final Update------------------------------------
+For this update, the project is almost completely finished. You can upload files to the server and in theory download them. I explain on the video why you cant quite download them yet. Well you can download 1 file. That essentially completes this project, and while there is alot of features to add and css to fix, that is minor things. The big thing is that the project is done and it works.
+
+
+Where to go from here (although you probably wont see it):
+Finish it to where you can download multiple files,
+Add thumbnails/previews,
+Hash and compare for accuracy on large transfers,
+Restart download if error or failure occured,
+Fix css,
+Implement other mentioned but minor features.
+
+Thank you for following this project and journey, not that you had a choice.
+
+
+
 ---------------------UPDATE MileStone 3------------------------------------
 
 Posted in the milestone3 folder is the new code.
@@ -10,7 +26,7 @@ There currently is a bug where only the first user in the list can log in....but
 
 Where to go from here: 
 
-In the code is the start of the file transfering system. So far only the barebones code for the behind the scenes is there. I plan to get a basic version of it up and running before making it all fancy with previews and erro checking and hashing along with server/folder selecting.
+In the code is the start of the file transfering system. So far only the barebones code for the behind the scenes is there. I plan to get a basic version of it up and running before making it all fancy with previews and error checking and hashing along with server/folder selecting.
 
 
 
