@@ -1,0 +1,9 @@
+{"users":[
+    {"id":1,"email":"bferkans@gmail.com","password":"12345","name":"Brenden","background":"PathNameHere"},
+    {"id":2,"email":"jferkans@gmail.com","password":"12345","name":"Joshua","background":"PathNameHere"},
+    {"id":3,"email":"nabors.brittney@gmail.com","password":"12345","name":"Brittney","background":"PathNameHere"},
+    {"id":4,"email":"latischa@me.com","password":"00000","name":"Latischa","background":"PathNameHere"},
+    {"id":5,"email":"typedEmail@gmail.com","password":"12345","name":"Michelle","background":"PathNameHere"},
+    {"id":6,"email":"typedEmail@gmail.com","password":"12345","name":"Matthew","background":"PathNameHere"},
+    {"id":7,"email":"secondEmail@yahoo.com","password":"54321","name":"Morgan","background":"PathNameHere"}
+]}
